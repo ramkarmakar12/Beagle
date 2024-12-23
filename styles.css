@@ -1,0 +1,9 @@
+#head{
+    /* background-color: aqua; */
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.heading{
+    text-decoration: underline;
+}
